@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-My GitHub Stats
-
+My GitHub Stats :chart_with_upwards_trend:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DenisPasha&theme=radical)
 
