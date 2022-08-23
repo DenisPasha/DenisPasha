@@ -2,7 +2,7 @@
 
 My name is Denis, 
 
-I have BCs degree of Computing Technologies from Roehampton University in London . 	:trophy:
+I have BCs degree in Computing Technologies from Roehampton University in London . 	:trophy:
 
  I like to develop my skills and knowledge . :books:
 
