@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Denis, 
+My name is Denis,  
 
 I have BCs degree in Computing Technologies from Roehampton University in London . 	:trophy:
 
