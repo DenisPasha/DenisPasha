@@ -6,7 +6,9 @@ I have BCs degree in Computing Technologies from Roehampton University in London
 
  I like to develop my skills and knowledge . :books:
 
-Im very passionate about coding , and always open for the next adventure in the tech industry . :top:
+I am very passionate about coding , and always open for the next adventure in the tech industry . :top:
+
+Currently student in SoftUni 
 
 
 
