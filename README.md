@@ -2,11 +2,12 @@
 
 My name is Denis,  
 
-I have BCs degree in Computing Technologies from Roehampton University in London . 	:trophy:
+I have BSc degree in Computing Technologies from Roehampton University in London . 	:trophy:
 
  I like to develop my skills and knowledge . :books:
 
 I am very passionate about coding , and always open for the next adventure in the tech industry . :top:
+
 
 Currently student at SoftUni 
 
@@ -48,7 +49,8 @@ My GitHub Stats :chart_with_upwards_trend:
 
 <p align="center">
 
- <a href="mailto:pashasoft95@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:pashasoft95@gmail.com"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Gmail-512.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:https://www.linkedin.com/in/l-in-denis-pasha/"> <img src="https://th.bing.com/th/id/OIP.d5futl9_HMoiD0hPTuYylwHaHX?pid=ImgDet&rs=1" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 
 </p>
 
