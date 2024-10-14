@@ -4,12 +4,41 @@ My name is Denis,
 
 I have BSc degree in Computing Technologies from Roehampton University in London . 	:trophy:
 
- I like to develop my skills and knowledge . :books:
-
-I am very passionate about coding , and always open for the next adventure in the tech industry . :top:
+I specialize in Java backend development, creating scalable and efficient server-side applications. Alongside my backend expertise, I'm currently exploring React for front-end development and expanding my knowledge of AWS cloud services. I also bring experience in Jira Administration, helping teams streamline their development processes.
 
 
-Currently student at SoftUni 
+💻 What I work on:
+Building robust, scalable back-end systems using Java and frameworks like Spring Boot
+Creating full-stack applications with Java backends and React frontends
+Utilizing AWS services to develop and deploy cloud-native solutions
+Managing workflows and customizing projects through Jira Administration
+
+
+🚀 What drives me:
+Mastering Java and back-end architecture
+Learning and applying React to enhance front-end development skills
+Integrating AWS services like EC2, S3, and Lambda into scalable applications
+Optimizing project management workflows through Jira
+
+
+🌱 Currently exploring:
+React for building modern, dynamic UIs
+Cloud infrastructure with AWS
+Effective Jira Administration for better team productivity
+
+🚀 What drives me:
+Learning new technologies and best practices
+Solving complex challenges with simple, effective solutions
+Sharing knowledge through documentation, blog posts, and collaboration with the dev community
+
+🔧 Tools & Technologies:
+Back-end: Java, Spring Boot, REST APIs
+Databases: MySQL
+Front-end: React (Learning), JavaScript (Learning), HTML, CSS
+Cloud: AWS (EC2, S3, Lambda)
+Scripting: Bash (Basic)
+Project Management: Jira Administration (Workflows, Permissions, Project Configurations)
+Others: Git, Docker, etc.
 
 
 
